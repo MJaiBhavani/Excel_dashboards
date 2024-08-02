@@ -9,12 +9,18 @@ this also shows demand of pizza based on their category and sizes etc...
 
 KPI's:
 Total_revenue 
+
 Total_pizza_sold
+
 AVG orders 
-AVG count of orders 
+
+AVG count of orders
+
 CHARTS:
 pie charts about weekdays sales of pizzza
+
 line chart about sum of sales per hour in a day and montly sales 
+
 bar charts about total sales by pizza category and pizza size 
 
 #dashboard
