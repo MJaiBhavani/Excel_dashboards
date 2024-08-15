@@ -1,6 +1,6 @@
 # PIZZA SALES ANALYSIS 
 ---
-
+[Pizza sales Excel file ](Pizza_sales.xlsx)
 
 ### project overview 
 The "Pizza Sales" data analytics project focuses on examining sales data to uncover trends, patterns, and factors influencing pizza sales performance. By analyzing data such as sales volume, customer demographics, seasonal variations, and promotional effects, the project aims to identify key drivers of sales and opportunities for growth. The insights will be used to optimize inventory management, refine marketing strategies, and enhance customer targeting, ultimately boosting sales and profitability for the pizza business.
